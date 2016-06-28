@@ -1,3 +1,3 @@
-# Image-processing-C-
+# Image-processing-C＃
 
 Visual Studio 2010
