@@ -1,0 +1,60 @@
+C:\Users\darren\Documents\Visual Studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\darren\Documents\Visual Studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\darren\Documents\Visual Studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\darren\Documents\Visual Studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\darren\Documents\Visual Studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\darren\Documents\Visual Studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\darren\Documents\Visual Studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\darren\Documents\Visual Studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+D:\ghost\影像處理\darwin\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+D:\ghost\影像處理\darwin\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+D:\ghost\影像處理\darwin\darwin\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+D:\ghost\影像處理\darwin\darwin\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+D:\ghost\影像處理\darwin\darwin\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\ghost\影像處理\darwin\darwin\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\ghost\影像處理\darwin\darwin\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+D:\ghost\影像處理\darwin\darwin\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+D:\ghost\影像處理\darwin\darwin\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\ghost\影像處理\darwin\darwin\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\ghost\影像處理\darwin_save\darwin\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+D:\ghost\影像處理\darwin_save\darwin\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+D:\ghost\影像處理\darwin_save\darwin\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\ghost\影像處理\darwin_save\darwin\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\ghost\影像處理\darwin_save\darwin\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+D:\ghost\影像處理\darwin_save\darwin\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+D:\ghost\影像處理\darwin_save\darwin\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\ghost\影像處理\darwin_save\darwin\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\ghost\影像處理\darwin_all\darwin\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+D:\ghost\影像處理\darwin_all\darwin\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+D:\ghost\影像處理\darwin_all - 複製\darwin\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+D:\ghost\影像處理\darwin_all - 複製\darwin\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+D:\ghost\影像處理\darwin_all - 複製\darwin\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\ghost\影像處理\darwin_all - 複製\darwin\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\ghost\影像處理\darwin_all - 複製\darwin\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+D:\ghost\影像處理\darwin_all - 複製\darwin\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+D:\ghost\影像處理\darwin_all - 複製\darwin\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\ghost\影像處理\darwin_all - 複製\darwin\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\ghost\影像處理\darwin_find_line\darwin\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+D:\ghost\影像處理\darwin_find_line\darwin\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+D:\ghost\影像處理\darwin_find_line\darwin\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\ghost\影像處理\darwin_find_line\darwin\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\ghost\影像處理\darwin_find_line\darwin\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+D:\ghost\影像處理\darwin_find_line\darwin\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+D:\ghost\影像處理\darwin_find_line\darwin\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\ghost\影像處理\darwin_find_line\darwin\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\ghost\影像處理\darwin_find_arrow\darwin\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+D:\ghost\影像處理\darwin_find_arrow\darwin\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+D:\ghost\影像處理\darwin_find_arrow\darwin\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\ghost\影像處理\darwin_find_arrow\darwin\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\ghost\影像處理\darwin_find_arrow\darwin\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+D:\ghost\影像處理\darwin_find_arrow\darwin\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+D:\ghost\影像處理\darwin_find_arrow\darwin\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\ghost\影像處理\darwin_find_arrow\darwin\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\ghost\git practice\C# image processing\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+D:\ghost\git practice\C# image processing\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+D:\ghost\git practice\C# image processing\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\ghost\git practice\C# image processing\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\ghost\git practice\C# image processing\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+D:\ghost\git practice\C# image processing\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+D:\ghost\git practice\C# image processing\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\ghost\git practice\C# image processing\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
